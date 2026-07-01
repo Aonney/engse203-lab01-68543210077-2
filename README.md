@@ -141,7 +141,7 @@ engse203-lab01/
 ```bash
 $ npm run start
 
-<img width="860" height="276" alt="Screenshot 2569-07-02 at 00 22 42" src="https://github.com/user-attachments/assets/cb18f23f-501c-47a6-9deb-b93faaee364f" />
+!(Screenshot 2569-07-02 at 00.38.41.png)
 
 ```
 
