@@ -138,7 +138,12 @@ engse203-lab01/
 
 ## หลักฐานผลลัพธ์
 
-อธิบายผลลัพธ์ พร้อมแนบภาพหน้าจอหรือข้อความผลลัพธ์ตามที่ใบงานกำหนด
+```bash
+$ npm run start
+
+<img width="860" height="276" alt="Screenshot 2569-07-02 at 00 22 42" src="https://github.com/user-attachments/assets/cb18f23f-501c-47a6-9deb-b93faaee364f" />
+
+```
 
 ## ปัญหาที่พบและวิธีแก้ไข
 
@@ -147,7 +152,19 @@ engse203-lab01/
 
 ## References & AI Assistance
 
-- Source / Documentation:
-- AI tool used:
-- Used for:
-- My adaptation:
+- Source / Documentation
+  - https://nodejs.org/docs/latest/api/
+  - https://docs.npmjs.com/
+  - https://git-scm.com/doc
+  - https://docs.github.com/
+
+- AI tool used
+  - ChatGPT (OpenAI)
+    
+- Used for
+  - ช่วยอธิบายขั้นตอนการสร้างโครงงาน Node.js
+  - ช่วยอธิบายการใช้งาน Git และ GitHub
+  - ช่วยตรวจสอบรูปแบบของ README และความถูกต้องของคำสั่ง
+
+- My adaptation
+  - สร้างโครงงาน เขียนโปรแกรม ทดสอบการทำงาน และ Push โค้ดขึ้น GitHub ด้วยตนเอง โดยใช้ ChatGPT เพื่อช่วยอธิบายขั้นตอน ตรวจสอบความถูกต้องของคำสั่ง และปรับปรุงการจัดรูปแบบเอกสารเท่านั้น
