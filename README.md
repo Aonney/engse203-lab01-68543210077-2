@@ -25,10 +25,42 @@
 
 ## วิธีติดตั้งและรัน
 
+เปิด **Visual Studio Code → Terminal → New Terminal** แล้วรันคำสั่งต่อไปนี้
+
 ```bash
-# ตัวอย่างคำสั่ง
-npm install
-npm run start
+node -v
+npm -v
+git --version
+```
+
+ผลลัพธ์ควรเป็นหมายเลขเวอร์ชันทั้ง 3 รายการ หากคำสั่งใดแสดงข้อความว่าไม่พบคำสั่ง ให้แจ้งผู้สอน/ผู้ช่วยสอนก่อนดำเนินการต่อ
+
+## ขั้นตอนที่ 2 — สร้างโครงสร้างโครงงาน
+
+สร้างพื้นที่ทำงานของรายวิชา แล้วสร้างโครงงาน LAB 1
+
+**macOS / iMac M1**
+
+```bash
+mkdir -p ~/Documents/ENGSE203
+cd ~/Documents/ENGSE203
+```
+
+**Windows 11 + Ubuntu WSL**
+
+```bash
+mkdir -p ~/workspace/engse203
+cd ~/workspace/engse203
+```
+
+จากนั้น ใช้คำสั่งร่วมกันทั้งสองระบบ
+
+```bash
+mkdir engse203-lab01
+cd engse203-lab01
+npm init -y
+mkdir src
+code .
 ```
 
 ## โครงสร้างไฟล์
