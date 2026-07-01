@@ -148,16 +148,14 @@ $ npm run start
 
 ## ปัญหาที่พบและวิธีแก้ไข
 
-- ปัญหา:
-- วิธีแก้:
+- ปัญหา: คำสั่ง ```code .``` ไม่สามารถใช้งานได้
+- วิธีแก้: เปิด Visual Studio Code แล้วติดตั้งคำสั่ง code ลงใน PATH ผ่าน Command Palette
+  โดยเลือก ```Shell Command: Install 'code' command in PATH```
 
 ## References & AI Assistance
 
 - Source / Documentation
-  - https://nodejs.org/docs/latest/api/
-  - https://docs.npmjs.com/
-  - https://git-scm.com/doc
-  - https://docs.github.com/
+  - คู่มือปฏิบัติการวิชา ENGSE203 สัปดาห์ที่ 1
 
 - AI tool used
   - ChatGPT (OpenAI)
