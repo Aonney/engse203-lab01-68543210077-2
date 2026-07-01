@@ -43,15 +43,15 @@ git --version
 **macOS / iMac M1**
 
 ```bash
-mkdir -p ~/Documents/ENGSE203
-cd ~/Documents/ENGSE203
+mkdir -p ~/class/ENGSE203
+cd ~/class/ENGSE203
 ```
 
 **Windows 11 + Ubuntu WSL**
 
 ```bash
-mkdir -p ~/workspace/engse203
-cd ~/workspace/engse203
+mkdir -p ~/class/ENGSE203
+cd ~/class/ENGSE203
 ```
 
 จากนั้น ใช้คำสั่งร่วมกันทั้งสองระบบ
